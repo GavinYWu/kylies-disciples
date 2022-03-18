@@ -19,3 +19,12 @@
 | - | - |
 |Web Project: Project Description, Project Plans/Ideas/Wires, Time box|[Time Box](https://github.com/kar722/kylies-disciples#readme); [Wireframe](https://github.com/kar722/kylies-disciples/wiki/Ideation)|
 |Team Roles described, Project Owner or Sponsor described, Scrum Board started|[Scrum Board](https://github.com/kar722/kylies-disciples/projects/1)|
+
+## Ideation
+* home page with pictures of club things (preferably a slideshow)
+* Information about how to join the club/signup/newsletter thing
+* Database that stores peoples suggestions of holidays we should decorate for
+* Sassy would be nice but not necessary
+* Navbar
+
+![](https://cdn.discordapp.com/attachments/645054705847762944/952739794360864778/unknown.png)
