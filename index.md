@@ -27,4 +27,4 @@
 * Sassy would be nice but not necessary
 * Navbar
 
-![](https://cdn.discordapp.com/attachments/645054705847762944/952739794360864778/unknown.png)
+<img src="wireframe.png"></img>
