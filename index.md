@@ -2,7 +2,7 @@
 
 ## Project Contributers
 
-|[Scrum Board](https://github.com/kar722/kylies-disciples/projects/1)|[Insight Graph](https://github.com/kar722/kylies-disciples/graphs/contributors)|Runtime Link|
+| [Scrum Board](https://github.com/kar722/kylies-disciples/projects/1) | [Insight Graph](https://github.com/kar722/kylies-disciples/graphs/contributors) | Runtime Link |
 | - | - | - |
 
 |Name|Github Profile|Individual Repository|Role|Commits|
@@ -17,8 +17,8 @@
 ## Week 0
 |Tasks|Evidence|
 | - | - |
-|Web Project: Project Description, Project Plans/Ideas/Wires, Time box|[Time Box](https://github.com/kar722/kylies-disciples#readme); [Wireframe](https://github.com/kar722/kylies-disciples/wiki/Ideation)|
-|Team Roles described, Project Owner or Sponsor described, Scrum Board started|[Scrum Board](https://github.com/kar722/kylies-disciples/projects/1)|
+| Web Project: Project Description, Project Plans/Ideas/Wires, Time box | [Time Box](https://github.com/kar722/kylies-disciples#readme); [Wireframe](https://github.com/kar722/kylies-disciples/wiki/Ideation) |
+| Team Roles described, Project Owner or Sponsor described, Scrum Board started | [Scrum Board](https://github.com/kar722/kylies-disciples/projects/1) |
 
 ## Ideation
 * home page with pictures of club things (preferably a slideshow)
